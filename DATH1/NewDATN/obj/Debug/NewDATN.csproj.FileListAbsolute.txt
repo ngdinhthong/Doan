@@ -1,0 +1,215 @@
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\bin\Debug\NewDATN.exe
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\bin\Debug\NewDATN.pdb
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.exe
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.pdb
+C:\Users\vomin\Source\Repos\NewDATN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Code\NewDATN\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Code\NewDATN\NewDATN\bin\Debug\NewDATN.exe
+C:\Code\NewDATN\NewDATN\bin\Debug\NewDATN.pdb
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.exe
+C:\Code\NewDATN\NewDATN\obj\Debug\NewDATN.pdb
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.exe
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.pdb
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\bin\Debug\NewDATN.exe.config
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\bin\Debug\NewDATN.exe
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\bin\Debug\NewDATN.pdb
+D:\Download chrome\DoAnTinHoc\NewDATN\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Game\NewDATN\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Game\NewDATN\NewDATN\bin\Debug\NewDATN.exe
+C:\Game\NewDATN\NewDATN\bin\Debug\NewDATN.pdb
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.exe
+C:\Game\NewDATN\NewDATN\obj\Debug\NewDATN.pdb
+C:\Game\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Game\metloz\NewDATN\bin\Debug\NewDATN.exe
+C:\Game\metloz\NewDATN\bin\Debug\NewDATN.pdb
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.exe
+C:\Game\metloz\NewDATN\obj\Debug\NewDATN.pdb
+D:\Download chrome\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+D:\Download chrome\metloz\NewDATN\bin\Debug\NewDATN.exe
+D:\Download chrome\metloz\NewDATN\bin\Debug\NewDATN.pdb
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.exe
+D:\Download chrome\metloz\NewDATN\obj\Debug\NewDATN.pdb
+D:\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+D:\metloz\NewDATN\bin\Debug\NewDATN.exe
+D:\metloz\NewDATN\bin\Debug\NewDATN.pdb
+D:\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\metloz\NewDATN\obj\Debug\NewDATN.exe
+D:\metloz\NewDATN\obj\Debug\NewDATN.pdb
+D:\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+D:\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe
+D:\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.pdb
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.exe
+D:\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.pdb
+C:\Code\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Code\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe
+C:\Code\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.pdb
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.exe
+C:\Code\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.pdb
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.exe
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\bin\Debug\NewDATN.pdb
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.exe
+C:\Users\ASUS\Downloads\caiConCAC\metloz\NewDATN\obj\Debug\NewDATN.pdb
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.exe
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.pdb
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.exe
+C:\Users\ASUS\Downloads\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.pdb
+D:\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.exe.config
+D:\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.exe
+D:\DoAnMoi\metloz\NewDATN\bin\Debug\NewDATN.pdb
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.exe
+D:\DoAnMoi\metloz\NewDATN\obj\Debug\NewDATN.pdb
+C:\Code\DoAN\NewDATN\bin\Debug\NewDATN.exe.config
+C:\Code\DoAN\NewDATN\bin\Debug\NewDATN.exe
+C:\Code\DoAN\NewDATN\bin\Debug\NewDATN.pdb
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.exe
+C:\Code\DoAN\NewDATN\obj\Debug\NewDATN.pdb
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\bin\Debug\NewDATN.exe.config
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\bin\Debug\NewDATN.exe
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\bin\Debug\NewDATN.pdb
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.exe
+D:\Download chrome\DoAN (1)\DoAN\NewDATN\obj\Debug\NewDATN.pdb
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\bin\Debug\NewDATN.exe.config
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\bin\Debug\NewDATN.exe
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\bin\Debug\NewDATN.pdb
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.csproj.AssemblyReference.cache
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmChinh.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmCuaHang.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmKho.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmLichSu.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmLogin.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.frmNhanVien.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.Properties.Resources.resources
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.csproj.GenerateResource.cache
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.csproj.CoreCompileInputs.cache
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.exe
+D:\ThongNe\OneDrive\Máy tính\DoAN\NewDATN\obj\Debug\NewDATN.pdb
